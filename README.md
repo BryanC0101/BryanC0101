@@ -1,9 +1,14 @@
-
-<!-- Nothing weird to see here -->
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  <a href="https://www.youtube.com/watch?v=IwOfCgkyEj0">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/en/9/9c/Bob_Dylan_-_Highway_61_Revisited.jpg" 
+      width="220"
+      alt="Like a Rolling Stone - Bob Dylan Album Cover"
+    />
   </a>
+</p>
+
+<p align="center">
+  🎵 <b>Like a Rolling Stone</b><br>
+  Bob Dylan
 </p>
