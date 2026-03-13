@@ -13,9 +13,5 @@
 
 ### ✍️ Quote
 <p align="center">
-  <img src="https://img.shields.io/badge/Quote-Hans%20W.%20Schorros-black?style=for-the-badge&logo=quote" />
+  <img src="quote-banner.png" alt="Citação de Hans W. Schorros" width="100%">
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=BryanC0101&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
