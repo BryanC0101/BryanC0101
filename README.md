@@ -12,3 +12,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=BryanC0101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quote
+<p align="center">
+  <img src="quote-banner.png" alt="Citação de Hans W. Schorros" width="100%">
+</p>
