@@ -11,9 +11,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BryanC0101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### ✍️ Quote
+<p align="center">
+  <img src="https://img.shields.io/badge/Quote-Hans%20W.%20Schorros-black?style=for-the-badge&logo=quote" />
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=BryanC0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
