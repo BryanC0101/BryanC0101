@@ -3,5 +3,3 @@
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-<br/>
