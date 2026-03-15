@@ -5,3 +5,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315rmqwx353hmhje55rwwdyo6ha4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
