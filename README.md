@@ -7,4 +7,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315rmqwx353hmhje55rwwdyo6ha4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=5cc059&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![HAL 9000](https://media.giphy.com/media/3o7TKuFYevgE2b6Mx2/giphy.gif)
+
