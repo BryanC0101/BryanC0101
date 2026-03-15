@@ -7,4 +7,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315rmqwx353hmhje55rwwdyo6ha4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=5cc059&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![HAL 9000](https://medium.com/@joaoinvictor/os-50-anos-de-2001-uma-odiss%C3%A9ia-no-espa%C3%A7o-c129b20750f1)
+<p align="center">
+  <a href="https://medium.com/@joaoinvictor/os-50-anos-de-2001-uma-odiss%C3%A9ia-no-espa%C3%A7o-c129b20750f1">
+    <img src="https://media.giphy.com/media/12R2bKfxceemNq/giphy.gif" width="500">
+  </a>
+</p>
