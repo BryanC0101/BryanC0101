@@ -4,6 +4,5 @@
 
 ### 📊 Github Stats
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanC0101\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC0101\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=BryanC0101&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC0101&layout=compact&theme=tokyonight" height="150"/>
