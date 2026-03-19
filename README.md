@@ -4,7 +4,6 @@
 
 ### 📊 Github Stats
 
-<a href='https://github.com/BryanC0101/github-stats-transparent'>
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanC0101\&show_icons=true\&theme=tokyonight)
 
-![Stats Overview](https://raw.githubusercontent.com/BryanC0101/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/BryanC0101/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC0101\&layout=compact\&theme=tokyonight)
