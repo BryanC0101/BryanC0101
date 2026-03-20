@@ -4,6 +4,7 @@
 
 ### 📊 Github Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BryanC0101)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC0101)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanC0101" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC0101" width="48%" />
+</p>
