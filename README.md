@@ -6,4 +6,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BryanC0101)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC0101\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC0101)
