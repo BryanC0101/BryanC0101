@@ -3,7 +3,6 @@
 
 
 ### 📊 Github Stats
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=BryanC0101" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC0101" width="48%" />
